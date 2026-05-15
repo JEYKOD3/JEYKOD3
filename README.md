@@ -1,5 +1,5 @@
 Hi there 👋
-Welcome to my GitHub! I'm Jean Emmanuel, a software engineering graduate from ÉTS (B.Eng. 2026) with a strong interest in AI, fintech, full-stack development, and fitness tech.
+Welcome to my GitHub! I'm Jean Emmanuel, a software engineering graduate from ÉTS (B.Eng. 2026) with a strong interest in AI, data engineering, full-stack development, and fitness tech.
 
 I've built production web apps with C#, ASP.NET, JavaScript/TypeScript, and SQL Server : using clean architecture, REST APIs, and solid database design to improve real-world workflows for 300+ users in enterprise environments. 
 
